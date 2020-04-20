@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Anumshr/project5-operationalize-a-machine-learning-microservice-API.svg?style=svg)](https://circleci.com/gh/Anumshr/project5-operationalize-a-machine-learning-microservice-API)
 
 ## Project Overview
 

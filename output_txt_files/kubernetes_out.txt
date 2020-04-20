@@ -1,1 +1,6 @@
 <paste log output from Kubernetes-mediated prediction, here>
+(.devops) ubuntu:~/environment/project5-operationalize-a-machine-learning-microservice-API (master) $ ./run_kubernetes.sh 
+pod/developement created
+NAME           READY   STATUS    RESTARTS   AGE
+development   0/1     Pending   0          2s
+service "development" exposed

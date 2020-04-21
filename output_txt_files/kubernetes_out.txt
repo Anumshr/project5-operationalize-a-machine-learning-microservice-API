@@ -2,5 +2,14 @@
 (.devops) ubuntu:~/environment/project5-operationalize-a-machine-learning-microservice-API (master) $ ./run_kubernetes.sh 
 pod/developement created
 NAME           READY   STATUS    RESTARTS   AGE
-development   0/1     Pending   0          2s
+development   0/1     Pending   0          5s
 service "development" exposed
+###################################################################
+prediction outpur -- 
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
